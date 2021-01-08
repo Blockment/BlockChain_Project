@@ -19,5 +19,8 @@ class Client:
     def identity(self):
         return
 
+    def uploadHomework(self):
+        pass
+
 
 binascii.hexlify(self._public_key.exportKey(format='DER')).decode('ascii')
