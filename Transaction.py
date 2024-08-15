@@ -7,7 +7,6 @@ import datetime
 from Crypto.Hash import SHA
 from Crypto.Signature import PKCS1_v1_5
 
-
 class Transaction:
 
     def __init__(self, sender, recipient, value):
