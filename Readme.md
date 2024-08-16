@@ -1,6 +1,6 @@
 # HomeworkChain
 
-HomeworkChain is a blockchain-based system designed to manage homework submissions securely and efficiently. This project simulates a basic blockchain network, where clients can submit, verify, and view homework transactions in a decentralized manner.
+HomeworkChain is a blockchain-based system designed to manage homework submissions securely and efficiently. This project simulates a basic blockchain network where clients can submit, verify, and view homework transactions in a decentralized manner.
 
 ## Features
 
@@ -14,7 +14,7 @@ HomeworkChain is a blockchain-based system designed to manage homework submissio
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3
 - Libraries: `pycrypto`
 
 Install the required Python libraries using:
